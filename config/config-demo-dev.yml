@@ -1,5 +1,7 @@
-username: root
-password: root
+user:
+  username: root
+  password: root
+
 spring-cloud-config-demo:
   version: 1.0.0
   author: billshi
